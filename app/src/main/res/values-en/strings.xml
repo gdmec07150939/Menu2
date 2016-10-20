@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">myMenu</string>
+    <string name="m1">myMenu1</string>
+    <string name="m2">myMenu2</string>
+</resources>
